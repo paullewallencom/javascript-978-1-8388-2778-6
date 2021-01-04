@@ -1,0 +1,20 @@
+JavaScript War card game project from Scratch
+Explore how to build this JavaScript Game from Scratch based on the card game war.  Step by step learning JavaScript
+Learn how to use JavaScript to build a web project from Scratch!
+
+This course will demonstrate how to build a complete interactive web card game from start to finish.  All the source code is included . Learn from setup to completion step by step tutorials.
+
+Basic JavaScript and CSS is required as the scope of this course is to demonstrate working with JavaScript to build web applications.
+
+This course is perfect to learn more about writing JavaScript within a fun dynamic project.  Learn the core concepts of web development and how to apply JavaScript to make your project come to life.
+
+The best way to learn is to practice and this project is a great place to start and challenge yourself to see what you can do with JavaScript.   Card war is a simple game with straight forward rules and it makes a great digital project.  The rules require a dealing of cards to each player, then taking the top card and seeing which player has the highest card.  The high card wins the pot and the won cards then go to the bottom of the players stack.  The first player to run out of cards loses!   Within the course we simulate this game using the rules and apply them with JavaScript.  Using functions, ternary statements, loops, intervals, variables, arrays, objects together to build the game.
+
+Learn by examples - source code is included to get you started quickly
+
+Taught by an instructor with over 18 years of JavaScript experience, ready to help you learn JavaScript and answer any questions you may have.  Regular Q&A discussions with daily responses and coding assistance.
+
+Everything you need to learn how to build this and applications like it!
+
+When you are ready to learn more about building JavaScript applications from scratch, join now and lets start building amazing things online.  
+
